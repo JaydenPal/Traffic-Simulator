@@ -1,1 +1,2 @@
 # Traffic-Simulator
+Simulation of traffic network done in school using C. Uses a multitude of data structures and algorithms to determine shortest distance for cars, when they can and cannot travel, and keeps track of relavant data to the user such as average distance traveled or time spent on road for each car. Handles events at different time steps such as adding cars to the road and print events that display the networks current status. Program is also able to detect when a gridlock has occured in order to end the simulation avoiding an infinite loop. 
